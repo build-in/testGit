@@ -1,1 +1,2 @@
-git checkout -b feature155555555555555555555555
+Creating a new branch is quick & simple.1111111111111
+
